@@ -47,7 +47,7 @@
 		</div>
 		<div class="pngs">
 			<a href="#"><img src="assets/email.png" alt="#"></a>
-			<a href="#"><img src="assets/fb.png" alt="#"></a>	
+			<a href="#"><img src="assets/fb.png" alt="https://www.facebook.com/marphilhardware"></a>	
 			<a href="#"><img src="assets/tel.png" alt="#"></a>		
 			<a href="#"><img src="assets/phone.png" alt="#"></a>
 			</div>
