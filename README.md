@@ -1,4 +1,4 @@
 # marphil-hardware
-Marphil Hardware
+Website for Marphil Hardware
 
 Based in Magalang, Pampanga
